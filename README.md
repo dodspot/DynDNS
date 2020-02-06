@@ -1,0 +1,2 @@
+# DynDNS
+ simple DynDNS-Server
